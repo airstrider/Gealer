@@ -9,7 +9,7 @@ Each line will only contain one key-count pair.
 The output should contain each key occurring in the file along with the sum of the count for all occurrences of a given key.
 
 Example
-The input: [John,2], [Jane,3], [John,4], [Jane,5]
+The input: [John,2], [Jane,3], [John,4], [Jane,5].
 The output: The total for John is 6. The total for Jane is 8.
 
 
@@ -18,7 +18,7 @@ The PalindromeDetection class is an example to determine if a given string is a 
 A palindrome is a word or phrase that is spelled exactly the same forwards or backwards, like. 
 
 Example
-The input: "Ah, Satan sees Natasha"
+The input: "Ah, Satan sees Natasha".
 The output: "Ah, Satan sees Natasha" is a palindrome
 
 The input: "airstrider"
